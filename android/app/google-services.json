@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509958031041",
+    "project_id": "smartsociety-f9c6c",
+    "storage_bucket": "smartsociety-f9c6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509958031041:android:fac3681750b8cc7951f640",
+        "android_client_info": {
+          "package_name": "Smartsource.com.android_project_grp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZpBxcbAGHTEkGULgV6KM9NAKprnfI0ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
